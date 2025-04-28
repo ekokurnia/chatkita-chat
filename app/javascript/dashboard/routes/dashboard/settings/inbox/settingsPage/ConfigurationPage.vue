@@ -110,12 +110,23 @@ export default {
         :title="$t('INBOX_MGMT.SETTINGS_POPUP.MESSENGER_HEADING')"
         :sub-title="$t('INBOX_MGMT.SETTINGS_POPUP.MESSENGER_SUB_HEAD')"
       >
-        <woot-code
-          :script="inbox.web_widget_script"
-          lang="html"
-          :codepen-title="`${inbox.name} - Chatwoot Widget Test`"
-          enable-code-pen
-        />
+        <div class="space-y-4">
+          <woot-code
+            :script="inbox.web_widget_script"
+            lang="html"
+            :codepen-title="`${inbox.name} - Chatkita Widget Test`"
+            enable-code-pen
+          />
+          <p>
+            {{ $t('INBOX_MGMT.SETTINGS_POPUP.WORDPRESS_GUIDE') }}
+            <a
+              href="https://chatkita.com/hc/user-guide"
+              target="_blank"
+              rel="noopener noreferrer"
+              >{{ $t('INBOX_MGMT.SETTINGS_POPUP.WORDPRESS_LINK_TEXT') }}
+            </a>
+          </p>
+        </div>
       </SettingsSection>
 
       <SettingsSection

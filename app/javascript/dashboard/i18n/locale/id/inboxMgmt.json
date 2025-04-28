@@ -522,7 +522,9 @@
       "WHATSAPP_SECTION_UPDATE_BUTTON": "Perbarui",
       "WHATSAPP_WEBHOOK_TITLE": "Token Verifikasi Webhook",
       "WHATSAPP_WEBHOOK_SUBHEADER": "Token ini digunakan untuk memverifikasi keaslian titik akhir webhook.",
-      "UPDATE_PRE_CHAT_FORM_SETTINGS": "Perbarui Pengaturan Formulir Pra Obrolan"
+      "UPDATE_PRE_CHAT_FORM_SETTINGS": "Perbarui Pengaturan Formulir Pra Obrolan",
+      "WORDPRESS_GUIDE": "Untuk konfigurasi widget di platform seperti WordPress, silakan kunjungi",
+      "WORDPRESS_LINK_TEXT": "panduan ini"
     },
     "HELP_CENTER": {
       "LABEL": "Pusat Bantuan",
