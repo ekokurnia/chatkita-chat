@@ -532,7 +532,9 @@
       "WHATSAPP_SECTION_UPDATE_BUTTON": "Update",
       "WHATSAPP_WEBHOOK_TITLE": "Webhook Verification Token",
       "WHATSAPP_WEBHOOK_SUBHEADER": "This token is used to verify the authenticity of the webhook endpoint.",
-      "UPDATE_PRE_CHAT_FORM_SETTINGS": "Update Pre Chat Form Settings"
+      "UPDATE_PRE_CHAT_FORM_SETTINGS": "Update Pre Chat Form Settings",
+      "WORDPRESS_GUIDE": "For widget configuration on platforms like WordPress, please visit",
+      "WORDPRESS_LINK_TEXT": "this guide"
     },
     "HELP_CENTER": {
       "LABEL": "Help Center",
