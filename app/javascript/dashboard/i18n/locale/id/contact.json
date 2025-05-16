@@ -548,11 +548,11 @@
       }
     },
     "EMPTY_STATE": {
-      "TITLE": "No contacts found in this account",
-      "SUBTITLE": "Start adding new contacts by clicking on the button below",
+      "TITLE": "Tidak ada kontak yang ditemukan di akun ini",
+      "SUBTITLE": "Mulai menambahkan kontak baru dengan mengklik tombol di bawah",
       "BUTTON_LABEL": "Tambahkan kontak",
       "SEARCH_EMPTY_STATE_TITLE": "Tidak ada kontak yang cocok dengan pencarian Anda 🔍",
-      "LIST_EMPTY_STATE_TITLE": "No contacts available in this view 📋"
+      "LIST_EMPTY_STATE_TITLE": "Tidak ada kontak yang tersedia di dalam tampilan ini 📋"
     }
   },
   "COMPOSE_NEW_CONVERSATION": {

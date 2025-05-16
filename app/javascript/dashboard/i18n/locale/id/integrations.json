@@ -128,39 +128,39 @@
       "CREATE_ERROR": "Terjadi kesalahan saat membuat tautan pertemuan, harap coba lagi"
     },
     "OPEN_AI": {
-      "AI_ASSIST": "AI Assist",
-      "WITH_AI": " {option} with AI ",
+      "AI_ASSIST": "Asisten AI",
+      "WITH_AI": " {option} dengan AI",
       "OPTIONS": {
-        "REPLY_SUGGESTION": "Reply Suggestion",
-        "SUMMARIZE": "Summarize",
-        "REPHRASE": "Improve Writing",
-        "FIX_SPELLING_GRAMMAR": "Fix Spelling and Grammar",
-        "SHORTEN": "Shorten",
-        "EXPAND": "Expand",
-        "MAKE_FRIENDLY": "Change message tone to friendly",
-        "MAKE_FORMAL": "Use formal tone",
-        "SIMPLIFY": "Simplify"
+        "REPLY_SUGGESTION": "Saran Balasan",
+        "SUMMARIZE": "Ringkas",
+        "REPHRASE": "Perbaiki Tulisan",
+        "FIX_SPELLING_GRAMMAR": "Perbaiki Ejaan dan Tata Bahasa",
+        "SHORTEN": "Perpendek",
+        "EXPAND": "Perluas",
+        "MAKE_FRIENDLY": "Ubah nada pesan menjadi ramah",
+        "MAKE_FORMAL": "Gunakan nada formal",
+        "SIMPLIFY": "Sederhanakan"
       },
       "ASSISTANCE_MODAL": {
-        "DRAFT_TITLE": "Draft content",
-        "GENERATED_TITLE": "Generated content",
-        "AI_WRITING": "AI is writing",
+        "DRAFT_TITLE": "Draft konten",
+        "GENERATED_TITLE": "Konten yang dihasilkan",
+        "AI_WRITING": "AI sedang menulis",
         "BUTTONS": {
-          "APPLY": "Use this suggestion",
+          "APPLY": "Gunakan saran ini",
           "CANCEL": "Batalkan"
         }
       },
       "CTA_MODAL": {
-        "TITLE": "Integrate with OpenAI",
-        "DESC": "Bring advanced AI features to your dashboard with OpenAI's GPT models. To begin, enter the API key from your OpenAI account.",
-        "KEY_PLACEHOLDER": "Enter your OpenAI API key",
+        "TITLE": "Integrasi dengan OpenAI",
+        "DESC": "Tambahkan fitur AI ke dashboard Anda dengan model GPT dari OpenAI. Untuk memulai, masukkan API key dari akun OpenAI Anda.",
+        "KEY_PLACEHOLDER": "Masukkan API key OpenAI Anda",
         "BUTTONS": {
           "NEED_HELP": "Butuh bantuan?",
           "DISMISS": "Tutup",
-          "FINISH": "Finish Setup"
+          "FINISH": "Selesai"
         },
-        "DISMISS_MESSAGE": "You can setup OpenAI integration later Whenever you want.",
-        "SUCCESS_MESSAGE": "OpenAI integration setup successfully"
+        "DISMISS_MESSAGE": "Anda dapat mengatur integrasi OpenAI nanti",
+        "SUCCESS_MESSAGE": "Integrasi OpenAI berhasil diatur"
       },
       "TITLE": "Perbaiki dengan AI",
       "SUMMARY_TITLE": "Ringkasan dengan AI",
