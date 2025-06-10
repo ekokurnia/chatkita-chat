@@ -1,8 +1,8 @@
 {
   "CAMPAIGN": {
     "LIVE_CHAT": {
-      "HEADER_TITLE": "Live chat campaigns",
-      "NEW_CAMPAIGN": "Create campaign",
+      "HEADER_TITLE": "Kampanye live chat",
+      "NEW_CAMPAIGN": "Buat kampanye",
       "CARD": {
         "STATUS": {
           "ENABLED": "Diaktifkan",
@@ -16,11 +16,11 @@
         }
       },
       "EMPTY_STATE": {
-        "TITLE": "No live chat campaigns are available",
-        "SUBTITLE": "Connect with your customers using proactive messages.  Click 'Create campaign' to get started."
+        "TITLE": "Tidak ada kampanye live chat yang tersedia",
+        "SUBTITLE": "Hubungi pelanggan Anda dengan pesan proaktif. Klik 'Buat kampanye' untuk memulai."
       },
       "CREATE": {
-        "TITLE": "Create a live chat campaign",
+        "TITLE": "Buat kampanye live chat",
         "CANCEL_BUTTON_TEXT": "Batalkan",
         "CREATE_BUTTON_TEXT": "Buat",
         "FORM": {
@@ -41,7 +41,7 @@
           },
           "SENT_BY": {
             "LABEL": "Dikirim oleh",
-            "PLACEHOLDER": "Please select sender",
+            "PLACEHOLDER": "Pilih pengirim",
             "ERROR": "Pengirim wajib diisi"
           },
           "END_POINT": {
@@ -64,27 +64,27 @@
             "CANCEL": "Batalkan"
           },
           "API": {
-            "SUCCESS_MESSAGE": "Live chat campaign created successfully",
+            "SUCCESS_MESSAGE": "Kampanye live chat berhasil dibuat",
             "ERROR_MESSAGE": "Terjadi sebuah kesalahan. Silakan coba lagi."
           }
         }
       },
       "EDIT": {
-        "TITLE": "Edit live chat campaign",
+        "TITLE": "Ubah kampanye live chat",
         "FORM": {
           "API": {
-            "SUCCESS_MESSAGE": "Live chat campaign updated successfully",
+            "SUCCESS_MESSAGE": "Kampanye live chat berhasil diubah",
             "ERROR_MESSAGE": "Terjadi sebuah kesalahan. Silakan coba lagi."
           }
         }
       }
     },
     "SMS": {
-      "HEADER_TITLE": "SMS campaigns",
-      "NEW_CAMPAIGN": "Create campaign",
+      "HEADER_TITLE": "Kampanye SMS",
+      "NEW_CAMPAIGN": "Buat kampanye",
       "EMPTY_STATE": {
-        "TITLE": "No SMS campaigns are available",
-        "SUBTITLE": "Launch an SMS campaign to reach your customers directly. Send offers or make announcements with ease. Click 'Create campaign' to get started."
+        "TITLE": "Tidak ada kampanye SMS yang tersedia",
+        "SUBTITLE": "Luncurkan kampanye SMS untuk mencapai pelanggan Anda secara langsung. Kirimkan penawaran atau pengumuman dengan mudah. Klik 'Buat kampanye' untuk memulai."
       },
       "CARD": {
         "STATUS": {
@@ -97,7 +97,7 @@
         }
       },
       "CREATE": {
-        "TITLE": "Create SMS campaign",
+        "TITLE": "Buat kampanye SMS",
         "CANCEL_BUTTON_TEXT": "Batalkan",
         "CREATE_BUTTON_TEXT": "Buat",
         "FORM": {
@@ -131,7 +131,7 @@
             "CANCEL": "Batalkan"
           },
           "API": {
-            "SUCCESS_MESSAGE": "SMS campaign created successfully",
+            "SUCCESS_MESSAGE": "Kampanye SMS berhasil dibuat",
             "ERROR_MESSAGE": "Terjadi sebuah kesalahan. Silakan coba lagi."
           }
         }

@@ -1,10 +1,10 @@
 {
   "INBOX_MGMT": {
     "HEADER": "Kotak masuk",
-    "DESCRIPTION": "A channel is the mode of communication your customer chooses to interact with you. An inbox is where you manage interactions for a specific channel. It can include communications from various sources such as email, live chat, and social media.",
-    "LEARN_MORE": "Learn more about inboxes",
-    "RECONNECTION_REQUIRED": "Your inbox is disconnected. You won't receive new messages until you reauthorize it.",
-    "CLICK_TO_RECONNECT": "Click here to reconnect.",
+    "DESCRIPTION": "Saluran adalah metode komunikasi yang dipilih oleh pelanggan Anda untuk berinteraksi dengan Anda. Kotak masuk adalah tempat Anda mengelola interaksi untuk saluran tertentu. Ia dapat mencakup komunikasi dari berbagai sumber seperti email, live chat, dan media sosial.",
+    "LEARN_MORE": "Pelajari lebih lanjut tentang inbox",
+    "RECONNECTION_REQUIRED": "Inbox Anda terputus. Anda tidak akan menerima pesan baru sampai Anda mengautentikasi ulang.",
+    "CLICK_TO_RECONNECT": "Klik di sini untuk menghubungkan ulang.",
     "LIST": {
       "404": "Tidak ada kotak masuk yang dilampirkan ke akun ini."
     },
@@ -37,12 +37,12 @@
         "PLACEHOLDER": "Masukkan nama situs web Anda (misalnya: Acme Inc)"
       },
       "FB": {
-        "HELP": "NB: Dengan masuk, kami hanya mendapatkan akses ke pesan Halaman Anda. Pesan pribadi Anda tidak akan pernah bisa diakses oleh Chatwoot.",
+        "HELP": "NB: Dengan masuk, kami hanya mendapatkan akses ke pesan Halaman Anda. Pesan pribadi Anda tidak akan pernah bisa diakses oleh Chatkita.",
         "CHOOSE_PAGE": "Pilih Halaman",
         "CHOOSE_PLACEHOLDER": "Pilih halaman dari daftar",
         "INBOX_NAME": "Nama Kotak Masuk",
-        "ADD_NAME": "Tambahkan nama untuk kotak masuk Anda",
-        "PICK_NAME": "Pick a Name for your Inbox",
+        "ADD_NAME": "Tambahkan nama untuk inbox Anda",
+        "PICK_NAME": "Pilih nama untuk inbox Anda",
         "PICK_A_VALUE": "Pilih"
       },
       "TWITTER": {
